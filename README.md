@@ -1,3 +1,16 @@
+
+# SEARCH PICS App
+
+This is React-Web-App which allows user to get thr choice of image to be dispalyed on screen.User can input the name of image they want to be displayed on the screen.
+We have used UNSPLASH API to fetch the choice of image by user.
+
+
+## LIVE-LINK
+
+https://https://search-pics-app-react.netlify.app/
+## DEMO(Snapshot)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
