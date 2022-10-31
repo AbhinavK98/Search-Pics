@@ -8,7 +8,11 @@ We have used UNSPLASH API to fetch the choice of image by user.
 ## LIVE-LINK
 
 https://https://search-pics-app-react.netlify.app/
+
 ## DEMO(Snapshot)
+![image](https://user-images.githubusercontent.com/48747218/198966103-d8663551-84f0-4f66-bc9e-e87895b3dfae.png)
+![image](https://user-images.githubusercontent.com/48747218/198966196-1e6ec916-f752-44ec-89a1-aaabf803b35e.png)
+
 
 
 # Getting Started with Create React App
