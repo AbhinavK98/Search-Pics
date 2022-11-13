@@ -7,7 +7,7 @@ We have used UNSPLASH API to fetch the choice of image by user.
 
 ## LIVE-LINK
 
-https://https://search-pics-app-react.netlify.app/
+https://search-pics-app-react.netlify.app/
 
 ## DEMO(Snapshot)
 ![image](https://user-images.githubusercontent.com/48747218/198966103-d8663551-84f0-4f66-bc9e-e87895b3dfae.png)
